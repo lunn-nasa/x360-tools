@@ -18,3 +18,8 @@ install ffmpeg.exe from this link and place it in the "bin" folder: https://driv
 if you are going to use .gesture, place the files in the input
 
 run x360-tools.py or cmd.bat and that's it
+
+
+# credits:
+Pedro for help me with gestures
+Diego for nohuds
