@@ -1,8 +1,11 @@
 # this tool has functions such as:
 
 convert .gesture from x1 (durango/xbox one) to x360
+
 convert audios (must be in .wav, I haven't tested in other formats) to .wav.ckd from x360
+
 convert menuart or pictos to .png.ckd or .tga.ckd
+
 convert .webm to x360
 
 
