@@ -1,3 +1,5 @@
+please, credit me!
+
 # this tool has functions such as:
 
 convert .gesture from x1 (durango/xbox one) to x360
